@@ -5,5 +5,7 @@ def math(variable: int):
 
 a = math(5)
 print(a)
+f: int = 1
+print(f)
 
 print('hi dare')
