@@ -49,3 +49,4 @@ def create_user(user: User):
     with open('db/users.json', 'w') as f:
         users[user.user_id] = user.__dict__
         json.dump(users, f, indent=4)
+
