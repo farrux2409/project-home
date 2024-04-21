@@ -3,3 +3,4 @@ def math(variable:int):
     return variable
 a = math(5)
 print(a)
+asdasd
