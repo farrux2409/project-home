@@ -1,6 +1,9 @@
-def math(variable:int):
-    variable = variable+variable
+def math(variable: int):
+    variable = variable + variable
     return variable
+
+
 a = math(5)
 print(a)
-asdasd
+
+print('hi dare')
