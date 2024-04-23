@@ -6,6 +6,7 @@ class Language(Enum):
     Russian = 'ru'
     Uzbek = 'uz'
 
- print("hi dare")
+
+print("hi dare")
 
 print('tyson')
